@@ -18,6 +18,11 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https//raw.githubusercontent.com/59-lmq/59-lmq/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/59-lmq/59-lmq/output/github-contribution-grid-snake.svg">
 </picture>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=59-lmq&theme=chalk&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=59-lmq&show_icons=True&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)
+
 -->
 
 <picture>
@@ -25,9 +30,5 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/59-lmq/59-lmq/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/59-lmq/59-lmq/output/github-contribution-grid-snake.svg">
 </picture>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=59-lmq&theme=chalk&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=59-lmq&show_icons=True&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)
 
 
