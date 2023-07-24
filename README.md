@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **59-lmq/59-lmq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,5 +17,5 @@ Here are some ideas to get you started:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https//raw.githubusercontent.com/59-lmq/59-lmq/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https//raw.githubusercontent.com/59-lmq/59-lmq/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubsercontent.com/59-lmq/59-lmq/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/59-lmq/59-lmq/output/github-contribution-grid-snake.svg">
 </picture>
