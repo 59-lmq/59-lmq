@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=59-lmq)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=59-lmq)](https://github.com/anuraghazra/github-readme-stats)
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/wakatime?username=59-lmq&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
