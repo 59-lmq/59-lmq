@@ -31,4 +31,4 @@ Here are some ideas to get you started:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/59-lmq/59-lmq/output/github-contribution-grid-snake.svg">
 </picture>
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Github.;It's+time+to+sleep!+)](https://git.io/typing-svg)
